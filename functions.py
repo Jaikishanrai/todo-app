@@ -17,7 +17,7 @@ def write_todos(todos_arg, filepath=FILEPATH):
         file.writelines(todos_arg)
 
 
-print(__name__)
+'''these lines are only executed when functions.py is executed directly'''
 if __name__ == "__main__":
     print("Hello")
     print(get_todos)
