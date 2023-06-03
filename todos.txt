@@ -4,7 +4,7 @@ a new line
 make soup
 make pizza
 clean the code
-master pyhon
-add jk
 add lastly
 add last day
+fix new drawer
+
