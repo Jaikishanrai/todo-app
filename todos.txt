@@ -1,4 +1,3 @@
-fix the drawer
 a new teama new player
 a new line
 make soup
@@ -7,4 +6,4 @@ clean the code
 add lastly
 add last day
 fix new drawer
-
+fix the desk
