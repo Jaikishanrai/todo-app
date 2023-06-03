@@ -1,9 +1,2 @@
-a new teama new player
-a new line
-make soup
-make pizza
-clean the code
-add lastly
-add last day
-fix new drawer
-fix the desk
+Average problem
+DSA 5 Problems
